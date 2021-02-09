@@ -12,7 +12,7 @@ What is FizzBuzz?
 
 The FizzBuzz problem is a classic test given in coding interviews. The task is simple: Print integers 1 to N, but print “Fizz” if an integer is divisible by 3, “Buzz” if an integer is divisible by 5, and “FizzBuzz” if an integer is divisible by both 3 and 5.
 
-[Follow me on Reddit](https://reddit.com/user/tech-35/)
+[My Profile on Reddit](https://reddit.com/user/tech-35/)
 
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
